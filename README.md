@@ -17,12 +17,20 @@ Pegasus is a sophisticated location tracking system built on Telegram that enabl
 
 ## Author
 
-**Letda Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**  
+**Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**  
 Chief Developer & Security Architect
+
+### Contact & Social Media
 
 [![GitHub](https://img.shields.io/badge/GitHub-sobri3195-blue?style=flat-square&logo=github)](https://github.com/sobri3195)
 [![Email](https://img.shields.io/badge/Email-muhammadsobrimaulana31%40gmail.com-red?style=flat-square&logo=gmail)](mailto:muhammadsobrimaulana31@gmail.com)
-[![Donate](https://img.shields.io/badge/Donate-Support_this_project-green?style=flat-square&logo=heart)](https://lynk.id/muhsobrimaulana)
+[![YouTube](https://img.shields.io/badge/YouTube-Muhammad_Sobri_Maulana-red?style=flat-square&logo=youtube)](https://www.youtube.com/@muhammadsobrimaulana6013)
+[![Telegram](https://img.shields.io/badge/Telegram-winlin__exploit-blue?style=flat-square&logo=telegram)](https://t.me/winlin_exploit)
+[![TikTok](https://img.shields.io/badge/TikTok-@dr.sobri-black?style=flat-square&logo=tiktok)](https://www.tiktok.com/@dr.sobri)
+[![Website](https://img.shields.io/badge/Website-muhammadsobrimaulana.netlify.app-green?style=flat-square&logo=netlify)](https://muhammadsobrimaulana.netlify.app)
+
+**WhatsApp Group:** [Join Community](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)  
+**Personal Website:** [https://muhammad-sobri-maulana-kvr6a.sevalla.page/](https://muhammad-sobri-maulana-kvr6a.sevalla.page/)
 
 ## Key Features
 
@@ -190,12 +198,20 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support the Project
 
-If you find Pegasus useful, consider supporting its development:
+If you find Pegasus useful, consider supporting its development through various donation platforms:
 
-[![Donate](https://img.shields.io/badge/Donate-Support_this_project-green?style=for-the-badge&logo=heart)](https://lynk.id/muhsobrimaulana)
+### Donation Links
+
+[![Lynk.id](https://img.shields.io/badge/Lynk.id-muhsobrimaulana-blue?style=for-the-badge)](https://lynk.id/muhsobrimaulana)
+[![Trakteer](https://img.shields.io/badge/Trakteer-Support_Me-orange?style=for-the-badge)](https://trakteer.id/g9mkave5gauns962u07t)
+[![Gumroad](https://img.shields.io/badge/Gumroad-maulanasobri-pink?style=for-the-badge)](https://maulanasobri.gumroad.com/)
+[![Karyakarsa](https://img.shields.io/badge/Karyakarsa-muhammadsobrimaulana-purple?style=for-the-badge)](https://karyakarsa.com/muhammadsobrimaulana)
+[![Nyawer](https://img.shields.io/badge/Nyawer-MuhammadSobriMaulana-yellow?style=for-the-badge)](https://nyawer.co/MuhammadSobriMaulana)
+
+Your support helps maintain and improve Pegasus. Thank you! ❤️
 
 ## License
 
-Copyright © 2023 Letda Kes Dr. Sobri, S.Kom. All rights reserved.
+Copyright © 2023 Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE. All rights reserved.
 
-For inquiries: muhammadsobrimaulana31@gmail.com 
+For inquiries: muhammadsobrimaulana31@gmail.com
